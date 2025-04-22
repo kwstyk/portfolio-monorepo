@@ -19,11 +19,12 @@
 
 ```mermaid
 graph LR
-  SB(SecurityBasics) --> NW(Network)
-  NW --> OS(System)
-  OS --> SD(SecureDev)
-  SD --> SIEM(LogsSIEM)
-  SIEM --> VM(VulnMgmt)
-  VM --> Cloud(CloudSecurity)
-  Cloud --> Ops(SecurityOps)
-  Ops --> Gov(Governance
+  SB[Security Basics]       --> NW[Network]
+  NW --> OS[System]
+  OS --> SD[Secure Dev]
+  SD --> SIEM[Logs SIEM]
+  SIEM --> VM[Vuln Mgmt]
+  VM --> CL[Cloud Security]
+  CL --> OP[Security Ops]
+  OP --> GV[Governance]
+
