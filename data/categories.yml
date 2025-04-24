@@ -1,0 +1,30 @@
+basics:
+  name: "Security Basics"
+  color: "#4ade80"
+network:
+  name: "Network Knowledge"
+  color: "#22d3ee"
+os:
+  name: "OS & System"
+  color: "#fbbc04"
+secure-dev:
+  name: "Secure Dev & Vulnerabilities"
+  color: "#ea4335"
+logs-siem:
+  name: "Logs & SIEM"
+  color: "#34a853"
+vuln-mgmt:
+  name: "Vuln Scanning & Mgmt"
+  color: "#4285f4"
+cloud:
+  name: "Cloud Security"
+  color: "#9c27b0"
+operations:
+  name: "Sec Ops (CSIRT/SOC)"
+  color: "#ff5722"
+governance:
+  name: "Governance & Compliance"
+  color: "#795548"
+softskill:
+  name: "Soft Skills & Languages"
+  color: "#607d8b"
